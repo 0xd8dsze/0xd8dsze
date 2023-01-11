@@ -13,7 +13,7 @@ Yaşım 23 bilgisayar mühendisiyim, özel şirketlere kurumsal yazılımlar ür
 
 #### :green_heart:Hobilerim:
 
-- Cosmology、Philosophy、Computer Science
+- Müzik、Kitap Okumak、Yazılım/Tasarım işleriye uğraşmak
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
