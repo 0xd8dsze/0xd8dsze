@@ -9,7 +9,7 @@ Yaşım 23 bilgisayar mühendisiyim, özel şirketlere kurumsal yazılımlar ür
 - <img src="https://lyshark.github.io/archive/README/Image/snort.gif" width="30px" alt="hi"> Binary security technology
 - <img src="https://lyshark.github.io/archive/README/Image/happy.gif" width="30px" alt="hi"> C/C++ Secure Programming
 - <img src="https://lyshark.github.io/archive/README/Image/huff.gif" width="30px" alt="hi"> Network information security
-- <img src="https://lyshark.github.io/archive/README/Image/stars.gif" width="30px" alt="hi"> Linux security maintenance
+- <img src="https://lyshark.github.io/archive/README/Image/stars.gif" width="30px" alt="hi"> Assembly / PIC Programming
 
 #### :green_heart:Areas of interest:
 
