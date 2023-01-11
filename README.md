@@ -30,13 +30,13 @@ Yaşım 23 bilgisayar mühendisiyim, özel şirketlere kurumsal yazılımlar ür
 </p>
 
 <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <a href="https://github.com">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xd8dsze&theme=github" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <a href="https://github.com">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyshark&theme=github" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <a href="https://github.com">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lyshark&theme=github" />
   </a>
 </div>
