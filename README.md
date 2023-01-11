@@ -4,7 +4,7 @@ Selam ben 0xd8d
 Yaşım 23 bilgisayar mühendisiyim, özel şirketlere kurumsal yazılımlar üretiyorum. :no_mouth:
 
 
-#### 👨‍💻What he's doing now:
+#### 👨‍💻İlgilendiğim alanlar:
 
 - <img src="https://lyshark.github.io/archive/README/Image/snort.gif" width="30px" alt="hi"> Binary security technology
 - <img src="https://lyshark.github.io/archive/README/Image/happy.gif" width="30px" alt="hi"> C/C++ Secure Programming
