@@ -1,7 +1,7 @@
 Selam ben 0xd8d
 <img align="right" src="https://lyshark.github.io/archive/README/Image/lyshark.png" width='553px' height='536px'>
 
-Selamlar yaşım 23 bilgisayar mühendisiyim, özel şirketlere kurumsal yazılımlar üretiyorum. :no_mouth:
+Yaşım 23 bilgisayar mühendisiyim, özel şirketlere kurumsal yazılımlar üretiyorum. :no_mouth:
 
 
 #### 👨‍💻What he's doing now:
