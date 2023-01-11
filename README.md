@@ -1,4 +1,4 @@
-Hello I 0xd8d
+Selam ben 0xd8d
 <img align="right" src="https://lyshark.github.io/archive/README/Image/lyshark.png" width='553px' height='536px'>
 
 Hello, everyone:wave:, Here is[ lyshark ](https://www.lyshark.com) GitHub, since the chicken on the left is learning, let me introduce him:no_mouth:
