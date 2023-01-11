@@ -11,7 +11,7 @@ Yaşım 23 bilgisayar mühendisiyim, özel şirketlere kurumsal yazılımlar ür
 - <img src="https://lyshark.github.io/archive/README/Image/huff.gif" width="30px" alt="hi"> Network information security
 - <img src="https://lyshark.github.io/archive/README/Image/stars.gif" width="30px" alt="hi"> Assembly / PIC Programming
 
-#### :green_heart:Areas of interest:
+#### :green_heart:Hobilerim:
 
 - Cosmology、Philosophy、Computer Science
 
